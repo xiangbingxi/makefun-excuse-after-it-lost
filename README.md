@@ -25,11 +25,11 @@ python3 main.py
 
 ## Competition
 
-- Competition page: https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d
+- Competition page: [Competition page](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 
 [![Bounty](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
-[![Rank](https://make.fun/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/xiangbingxi/makefun-excuse-after-it-lost/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
-[![Reward](https://make.fun/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/xiangbingxi/makefun-excuse-after-it-lost/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![Rank](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/xiangbingxi/makefun-excuse-after-it-lost/rank.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
+[![Reward](https://make.fun/badge/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d/xiangbingxi/makefun-excuse-after-it-lost/reward.svg)](https://make.fun/bounty/u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d)
 
 ## License
 
